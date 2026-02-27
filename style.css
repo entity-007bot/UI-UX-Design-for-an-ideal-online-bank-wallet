@@ -1,0 +1,23 @@
+/* Custom Styles for Zimap */
+
+:root {
+    --primary: #1a1a2e;
+    --accent: #e8c94a;
+    --bg: #f0f0e8;
+}
+
+body {
+    background-color: var(--bg);
+    color: var(--primary);
+    margin: 0;
+    padding: 0;
+}
+
+/* Add any specific non-tailwind styles here if needed */
+.asset-card:active {
+    transform: scale(0.98);
+}
+
+.action-button:active {
+    transform: scale(0.9);
+}

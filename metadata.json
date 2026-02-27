@@ -1,5 +1,5 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Zimap Crypto Portfolio",
+  "description": "A high-performance, vanilla JavaScript crypto portfolio tracker with USD-only primary currency, real-time price alerts, and a sleek mobile-first UI.",
   "requestFramePermissions": []
 }

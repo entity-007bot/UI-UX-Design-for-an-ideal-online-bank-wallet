@@ -1,0 +1,10 @@
+{
+  "appName": "Zimap Crypto Portfolio",
+  "version": "1.0.0",
+  "description": "Vanilla JS version of the Zimap Crypto Portfolio app",
+  "assets": [
+    { "id": "bitcoin", "name": "Bitcoin", "ticker": "BTC" },
+    { "id": "ethereum", "name": "Ethereum", "ticker": "ETH" },
+    { "id": "solana", "name": "Solana", "ticker": "SOL" }
+  ]
+}
